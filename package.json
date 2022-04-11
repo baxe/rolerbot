@@ -1,0 +1,14 @@
+{
+	"name": "kekw",
+	"version": "1.0.0",
+	"description": "Perma mod",
+	"main": "index.js",
+	"scripts": {
+		"run": "node index.js"
+	},
+	"author": "baxe",
+	"license": "MIT",
+	"dependencies": {
+		"eris": "^0.16.1"
+	}
+}
