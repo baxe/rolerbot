@@ -3,11 +3,12 @@
 	"version": "1.0.0",
 	"description": "Perma mod",
 	"main": "index.js",
+	"private": true,
 	"scripts": {
-		"run": "node index.js"
+		"start": "node index.js"
 	},
 	"author": "baxe",
-	"license": "MIT",
+	"license": "WTFPL",
 	"dependencies": {
 		"eris": "^0.16.1"
 	}
