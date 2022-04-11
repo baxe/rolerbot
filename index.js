@@ -22,3 +22,5 @@ bot.on("guildMemberAdd", (guild, member) => {
 		member.addRole(config.rid, "Qarid perma mod kekw");
 	}
 });
+
+bot.connect();
