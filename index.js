@@ -19,7 +19,7 @@ bot.on("error", (err) => {
 
 bot.on("guildMemberAdd", (guild, member) => {
 	if (member.id === config.uid) {
-		member.addRole(config.rid, "Qarid perma mod kekw");
+		member.addRole(config.rid, "qaric perma mod kekw");
 	}
 });
 
